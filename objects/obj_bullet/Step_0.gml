@@ -1,0 +1,1 @@
+part_emitter_region(system, emit, x + 1, x+3, y+1, y+3, ps_shape_rectangle, ps_distr_linear)
